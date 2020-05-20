@@ -30,6 +30,11 @@ to
 	
 	`Allow from all`
 `</Directory>`
+
+
+4. New **AMPP**
+ first this : https://stackoverflow.com/questions/47013891/apache-doesnt-start-in-ampps-on-ubuntu
+ second this : https://www.youtube.com/watch?v=KBxhdAj5jDk
    
 
 
