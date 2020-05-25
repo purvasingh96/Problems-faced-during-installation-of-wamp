@@ -36,7 +36,10 @@ to
  first this : https://stackoverflow.com/questions/47013891/apache-doesnt-start-in-ampps-on-ubuntu
  second this : https://www.youtube.com/watch?v=KBxhdAj5jDk
    
-
+cd /path/to/Ampps/mysql/bin
+sudo killall mysqld
+cd /path/to/Ampps/mysql/bin
+./mysqld --skip-grant-tables
 
 
          
